@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-bg: #1a1a1a;
+  --color-brand-gold: #c5a059;
+  --color-brand-gold-hover: #d8b472;
+  --color-brand-dark: #121212;
+  --color-brand-surface: #262626;
+  --color-brand-text: #e5e5e5;
+  --color-brand-text-muted: #a3a3a3;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--color-brand-bg);
+    color: var(--color-brand-text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer utilities {
+  .glassmorphism {
+    @apply bg-black/30 backdrop-blur-md border border-white/10;
+  }
+}
