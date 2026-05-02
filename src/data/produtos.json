@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "nome": "Aguardente Kirsch Cereja do Fundao",
+    "categoria": "Aguardente",
+    "img": "/produtos/aguardente_kirsch_cereja_do_fundao.jpeg",
+    "preco": 15.73
+  },
+  {
+    "id": 2,
+    "nome": "Aguardente Medronho Serra da Estrela",
+    "categoria": "Aguardente",
+    "img": "/produtos/aguardente_medronho_serra_da_estrela.jpeg",
+    "preco": 19.88
+  },
+  {
+    "id": 3,
+    "nome": "Aguardente Mirtilo Serra da Estrela",
+    "categoria": "Aguardente",
+    "img": "/produtos/aguardente_mirtilo_serra_da_estrela.jpeg",
+    "preco": 19.95
+  },
+  {
+    "id": 4,
+    "nome": "Aguardente Zimbro Serra da Estrela",
+    "categoria": "Aguardente",
+    "img": "/produtos/aguardente_zimbro_serra_da_estrela.jpeg",
+    "preco": 23.46
+  },
+  {
+    "id": 5,
+    "nome": "Doce Caixa",
+    "categoria": "Doces",
+    "img": "/produtos/doce_caixa.jpeg",
+    "preco": 5.16
+  },
+  {
+    "id": 6,
+    "nome": "Doce Mini-set",
+    "categoria": "Doces",
+    "img": "/produtos/doce_mini-set.jpeg",
+    "preco": 5.35
+  },
+  {
+    "id": 7,
+    "nome": "Doce Mini",
+    "categoria": "Doces",
+    "img": "/produtos/doce_mini.jpeg",
+    "preco": 7.5
+  },
+  {
+    "id": 8,
+    "nome": "Enchido Alheira Artesanal",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_alheira_artesanal.jpeg",
+    "preco": 10.79
+  },
+  {
+    "id": 9,
+    "nome": "Enchido Bucho Fatiado",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_bucho_fatiado.jpeg",
+    "preco": 8.82
+  },
+  {
+    "id": 10,
+    "nome": "Enchido Chourica Lameirao",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_chourica_lameirao.jpeg",
+    "preco": 16.06
+  },
+  {
+    "id": 11,
+    "nome": "Enchido Chourico Carne",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_chourico_carne.jpeg",
+    "preco": 18.33
+  },
+  {
+    "id": 12,
+    "nome": "Enchido Chourico Mouro",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_chourico_mouro.jpeg",
+    "preco": 16.53
+  },
+  {
+    "id": 13,
+    "nome": "Enchido Farinheira Tradicional",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_farinheira_tradicional.jpeg",
+    "preco": 5.82
+  },
+  {
+    "id": 14,
+    "nome": "Enchido Linguica Fina",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_linguica_fina.jpeg",
+    "preco": 14.4
+  },
+  {
+    "id": 15,
+    "nome": "Enchido Morcela Arroz",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_morcela_arroz.jpeg",
+    "preco": 19.84
+  },
+  {
+    "id": 16,
+    "nome": "Enchido Morcela de Sangue",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_morcela_de_sangue.jpeg",
+    "preco": 11.18
+  },
+  {
+    "id": 17,
+    "nome": "Enchido Paio Almeida",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_paio_almeida.jpeg",
+    "preco": 18.15
+  },
+  {
+    "id": 18,
+    "nome": "Enchido Salpicao Caseiro",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_salpicao_caseiro.jpeg",
+    "preco": 12.48
+  },
+  {
+    "id": 19,
+    "nome": "Enchido Salpicao Fatiado",
+    "categoria": "Enchidos",
+    "img": "/produtos/enchido_salpicao_fatiado.jpeg",
+    "preco": 16.64
+  },
+  {
+    "id": 20,
+    "nome": "Licor Arroz Doce",
+    "categoria": "Licores",
+    "img": "/produtos/licor_arroz_doce.jpeg",
+    "preco": 18.79
+  },
+  {
+    "id": 21,
+    "nome": "Licor de Cereja do Fundao",
+    "categoria": "Licores",
+    "img": "/produtos/licor_de_cereja_do_fundao.jpeg",
+    "preco": 25.05
+  },
+  {
+    "id": 22,
+    "nome": "Licor Flor de Sabugueiro",
+    "categoria": "Licores",
+    "img": "/produtos/licor_flor_de_sabugueiro.jpeg",
+    "preco": 15.15
+  },
+  {
+    "id": 23,
+    "nome": "Licor Hidromel a Bebida dos Deuses",
+    "categoria": "Licores",
+    "img": "/produtos/licor_hidromel_a_bebida_dos_deuses.jpeg",
+    "preco": 24.65
+  },
+  {
+    "id": 24,
+    "nome": "Licor Mousse de Chocolate",
+    "categoria": "Licores",
+    "img": "/produtos/licor_mousse_de_chocolate.jpeg",
+    "preco": 20.74
+  },
+  {
+    "id": 25,
+    "nome": "Licor Pastel de Nata",
+    "categoria": "Licores",
+    "img": "/produtos/licor_pastel_de_nata.jpeg",
+    "preco": 29.42
+  },
+  {
+    "id": 26,
+    "nome": "Mel Acacia",
+    "categoria": "Mel",
+    "img": "/produtos/mel_acacia.png",
+    "preco": 10.02
+  },
+  {
+    "id": 27,
+    "nome": "Mel Carvalho",
+    "categoria": "Mel",
+    "img": "/produtos/mel_carvalho.png",
+    "preco": 10.51
+  },
+  {
+    "id": 28,
+    "nome": "Mel Cremoso Laranjeira",
+    "categoria": "Mel",
+    "img": "/produtos/mel_cremoso_laranjeira.png",
+    "preco": 7.73
+  },
+  {
+    "id": 29,
+    "nome": "Mel Eucalipto",
+    "categoria": "Mel",
+    "img": "/produtos/mel_eucalipto.png",
+    "preco": 13.39
+  },
+  {
+    "id": 30,
+    "nome": "Mel Flores Laranjeira",
+    "categoria": "Mel",
+    "img": "/produtos/mel_flores_laranjeira.png",
+    "preco": 9.9
+  },
+  {
+    "id": 31,
+    "nome": "Mel Portugal",
+    "categoria": "Mel",
+    "img": "/produtos/mel_portugal.png",
+    "preco": 10.33
+  },
+  {
+    "id": 32,
+    "nome": "Mel Queiro",
+    "categoria": "Mel",
+    "img": "/produtos/mel_queiro.png",
+    "preco": 13.43
+  },
+  {
+    "id": 33,
+    "nome": "Mel Queiros Rosmaninho",
+    "categoria": "Mel",
+    "img": "/produtos/mel_queiros_rosmaninho.png",
+    "preco": 6.19
+  },
+  {
+    "id": 34,
+    "nome": "Mel Rosmaninho",
+    "categoria": "Mel",
+    "img": "/produtos/mel_rosmaninho.png",
+    "preco": 8.17
+  },
+  {
+    "id": 35,
+    "nome": "Mel Rosmaninho Algarve",
+    "categoria": "Mel",
+    "img": "/produtos/mel_rosmaninho_algarve.png",
+    "preco": 7.83
+  },
+  {
+    "id": 36,
+    "nome": "Mel Rosmaninho Beira Baixa",
+    "categoria": "Mel",
+    "img": "/produtos/mel_rosmaninho_BB.png",
+    "preco": 14.35
+  },
+  {
+    "id": 37,
+    "nome": "Mel Rosmaninho Lacre",
+    "categoria": "Mel",
+    "img": "/produtos/mel_rosmaninho_lacre.png",
+    "preco": 11.62
+  },
+  {
+    "id": 38,
+    "nome": "Mel Tilia",
+    "categoria": "Mel",
+    "img": "/produtos/mel_tilia.png",
+    "preco": 12.34
+  },
+  {
+    "id": 39,
+    "nome": "Mel Urzes",
+    "categoria": "Mel",
+    "img": "/produtos/mel_urzes.png",
+    "preco": 14.02
+  },
+  {
+    "id": 40,
+    "nome": "Queijo Amarelo",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_amarelo.png",
+    "preco": 10.28
+  },
+  {
+    "id": 41,
+    "nome": "Queijo Amarelo Merenda",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_amarelo_merenda.png",
+    "preco": 17.12
+  },
+  {
+    "id": 42,
+    "nome": "Queijo Cabra Curado",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_cabra_curado.png",
+    "preco": 19.33
+  },
+  {
+    "id": 43,
+    "nome": "Queijo Cabra Curado Colorado",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_cabra_curado_colorado.png",
+    "preco": 14.26
+  },
+  {
+    "id": 44,
+    "nome": "Queijo Castelo Branco",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_castelo_branco.png",
+    "preco": 9.78
+  },
+  {
+    "id": 45,
+    "nome": "Queijo Curado",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_curado.png",
+    "preco": 12.11
+  },
+  {
+    "id": 46,
+    "nome": "Queijo Curado Merendeira",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_curado_merendeira.png",
+    "preco": 24.65
+  },
+  {
+    "id": 47,
+    "nome": "Queijo Curado Quimoso",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_curado_quimoso.png",
+    "preco": 14.73
+  },
+  {
+    "id": 48,
+    "nome": "Queijo Merendeira Castelo Branco",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_merendeira_castelo_branco.png",
+    "preco": 20.14
+  },
+  {
+    "id": 49,
+    "nome": "Queijo Misto",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_misto.png",
+    "preco": 22.61
+  },
+  {
+    "id": 50,
+    "nome": "Queijo Misto Merendeira",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_misto_merendeira.png",
+    "preco": 24.53
+  },
+  {
+    "id": 51,
+    "nome": "Queijo Ovelha Reserva",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_ovelha_reserva.png",
+    "preco": 16.65
+  },
+  {
+    "id": 52,
+    "nome": "Queijo Picante",
+    "categoria": "Queijos",
+    "img": "/produtos/queijo_picante.png",
+    "preco": 22.06
+  }
+]
