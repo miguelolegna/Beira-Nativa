@@ -2,11 +2,11 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 
 const CATEGORIAS = [
-  { id: 'licores', nome: "Licores", img: "https://images.unsplash.com/photo-1583094851221-50e50f3b0638?auto=format&fit=crop&q=80&w=600" },
-  { id: 'aguardente', nome: "Aguardente", img: "https://images.unsplash.com/photo-1516073762112-8e1de32e0c90?auto=format&fit=crop&q=80&w=600" },
-  { id: 'mel', nome: "Mel", img: "https://images.unsplash.com/photo-1587049352847-81a56d773c1c?auto=format&fit=crop&q=80&w=600" },
-  { id: 'enchidos', nome: "Enchidos", img: "https://images.unsplash.com/photo-1628268909376-e8c4dfbffb50?auto=format&fit=crop&q=80&w=600" },
-  { id: 'queijos', nome: "Queijos", img: "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?auto=format&fit=crop&q=80&w=600" }
+  { id: 'licores', nome: "Licores", img: "/produtos/licor_de_cereja_do_fundao.jpeg" },
+  { id: 'aguardente', nome: "Aguardente", img: "/produtos/aguardente_medronho_serra_da_estrela.jpeg" },
+  { id: 'mel', nome: "Mel", img: "/produtos/mel_acacia.png" },
+  { id: 'enchidos', nome: "Enchidos", img: "/produtos/enchido_salpicao_caseiro.jpeg" },
+  { id: 'queijos', nome: "Queijos", img: "/produtos/queijo_amarelo.png" }
 ];
 
 export const CategoriasGrid = () => {
@@ -20,7 +20,7 @@ export const CategoriasGrid = () => {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-6">
           {CATEGORIAS.map((categoria) => (
-            <Link key={categoria.id} to={`/catalogo?cat=${categoria.id}`}>
+            <Link key={categoria.id} to={`/catalogo?cat=${categoria.id}`} onClick={() => window.scrollTo(0, 0)}>
               <motion.div 
                 whileHover={{ y: -5 }}
                 className="group relative bg-brand-surface rounded-2xl overflow-hidden border border-white/5 transition-[border-color,box-shadow] duration-300 hover:border-brand-gold/30 hover:shadow-2xl hover:shadow-brand-gold/5 h-64"

@@ -50,8 +50,8 @@ export const Catalogo = () => {
     <section className="py-24 px-4 bg-brand-surface/30 min-h-screen">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-12">
-          <h1 className="text-4xl font-serif text-white mb-4">Catálogo de Produtos</h1>
-          <p className="text-brand-text-muted">Desfruta dos sabores puros da nossa terra.</p>
+          <h1 className="text-4xl font-serif text-white mb-4">Os Nossos Produtos</h1>
+          <p className="text-brand-text-muted">Desfrute dos sabores puros da nossa terra</p>
         </div>
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-6 mb-12">

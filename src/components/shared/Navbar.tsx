@@ -37,7 +37,7 @@ export const Navbar = () => {
                     : 'text-brand-text-muted hover:text-white hover:bg-white/5'
                 }`}
               >
-                Catálogo
+                Montra
               </Link>
             </div>
           </div>
@@ -53,7 +53,7 @@ export const Navbar = () => {
               to="/catalogo"
               className={`text-sm font-medium ${isActive('/catalogo') ? 'text-brand-gold' : 'text-brand-text-muted'}`}
             >
-              Catálogo
+              Montra
             </Link>
           </div>
         </div>
